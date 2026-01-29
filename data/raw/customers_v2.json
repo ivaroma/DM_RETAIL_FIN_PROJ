@@ -1,0 +1,1202 @@
+[
+  {
+    "cust_id": "cust_100",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "730 New Avenue, NewCity_99",
+    "phone": "555-7876",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_101",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "179 New Avenue, NewCity_99",
+    "phone": "555-5971",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_102",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "598 New Avenue, NewCity_99",
+    "phone": "555-1240",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_103",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "565 New Avenue, NewCity_99",
+    "phone": "555-4660",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_104",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "516 New Avenue, NewCity_99",
+    "phone": "555-2083",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_105",
+    "full_name": "CHARLIE BROWN",
+    "email": "",
+    "address": "183 New Avenue, NewCity_99",
+    "phone": "555-7223",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_106",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "2 New Avenue, NewCity_99",
+    "phone": "555-8334",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_107",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "656 New Avenue, NewCity_99",
+    "phone": "555-2027",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_108",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "875 New Avenue, NewCity_99",
+    "phone": "555-2361",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_109",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "328 New Avenue, NewCity_99",
+    "phone": "555-8341",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_110",
+    "full_name": "JOHN DOE",
+    "email": " john.doe@example.com  ",
+    "address": "392 New Avenue, NewCity_99",
+    "phone": "555-1715",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_111",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "554 New Avenue, NewCity_99",
+    "phone": "555-5042",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_112",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "25 New Avenue, NewCity_99",
+    "phone": "555-8235",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_113",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "270 New Avenue, NewCity_99",
+    "phone": "555-7132",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_114",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "699 New Avenue, NewCity_99",
+    "phone": "555-3741",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_115",
+    "full_name": "JOHN DOE",
+    "email": "john.doe@example.com",
+    "address": "465 New Avenue, NewCity_99",
+    "phone": "555-7715",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_116",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "755 New Avenue, NewCity_99",
+    "phone": "555-6151",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_117",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "499 New Avenue, NewCity_99",
+    "phone": "555-5085",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_118",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "309 New Avenue, NewCity_99",
+    "phone": "555-4514",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_119",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "752 New Avenue, NewCity_99",
+    "phone": "555-7694",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_120",
+    "full_name": "JOHN DOE",
+    "email": " john.doe@example.com  ",
+    "address": "825 New Avenue, NewCity_99",
+    "phone": "555-7782",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_121",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "621 New Avenue, NewCity_99",
+    "phone": "555-6115",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_122",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "761 New Avenue, NewCity_99",
+    "phone": "555-2380",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_123",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "11 New Avenue, NewCity_99",
+    "phone": "555-6868",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_124",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "999 New Avenue, NewCity_99",
+    "phone": "555-7153",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_125",
+    "full_name": "CHARLIE BROWN",
+    "email": "charlie.brown@example.com",
+    "address": "115 New Avenue, NewCity_99",
+    "phone": "555-9704",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_126",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "146 New Avenue, NewCity_99",
+    "phone": "555-8619",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_127",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "86 New Avenue, NewCity_99",
+    "phone": "555-7508",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_128",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "305 New Avenue, NewCity_99",
+    "phone": "555-3253",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_129",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "240 New Avenue, NewCity_99",
+    "phone": "555-7759",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_130",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "556 New Avenue, NewCity_99",
+    "phone": "555-3161",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_131",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "63 New Avenue, NewCity_99",
+    "phone": "555-3012",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_132",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "27 New Avenue, NewCity_99",
+    "phone": "555-2444",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_133",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "377 New Avenue, NewCity_99",
+    "phone": "555-6076",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_134",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "233 New Avenue, NewCity_99",
+    "phone": "555-3500",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_135",
+    "full_name": "JANE SMITH",
+    "email": "",
+    "address": "111 New Avenue, NewCity_99",
+    "phone": "555-4578",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_136",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "465 New Avenue, NewCity_99",
+    "phone": "555-7151",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_137",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "281 New Avenue, NewCity_99",
+    "phone": "555-5139",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_138",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "617 New Avenue, NewCity_99",
+    "phone": "555-6150",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_139",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "501 New Avenue, NewCity_99",
+    "phone": "555-5463",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_140",
+    "full_name": "BOB STRUCTURE",
+    "email": " bob.structure@example.com  ",
+    "address": "320 New Avenue, NewCity_99",
+    "phone": "555-7616",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_141",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "713 New Avenue, NewCity_99",
+    "phone": "555-5974",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_142",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "23 New Avenue, NewCity_99",
+    "phone": "555-1482",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_143",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "146 New Avenue, NewCity_99",
+    "phone": "555-9836",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_144",
+    "full_name": "john doe",
+    "email": "john.doe@example.com",
+    "address": "255 New Avenue, NewCity_99",
+    "phone": "555-5476",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_145",
+    "full_name": "JANE SMITH",
+    "email": "jane.smith@example.com",
+    "address": "762 New Avenue, NewCity_99",
+    "phone": "555-9944",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_146",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "353 New Avenue, NewCity_99",
+    "phone": "555-1328",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_147",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "679 New Avenue, NewCity_99",
+    "phone": "555-2170",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_148",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "436 New Avenue, NewCity_99",
+    "phone": "555-8119",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_149",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "909 New Avenue, NewCity_99",
+    "phone": "555-2810",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_150",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "334 New Avenue, NewCity_99",
+    "phone": "555-7128",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_151",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "890 New Avenue, NewCity_99",
+    "phone": "555-9072",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_152",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "49 New Avenue, NewCity_99",
+    "phone": "555-7966",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_153",
+    "full_name": "alice wonderland",
+    "email": "alice.wonderland@example.com",
+    "address": "545 New Avenue, NewCity_99",
+    "phone": "555-5470",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_154",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "526 New Avenue, NewCity_99",
+    "phone": "555-3083",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_155",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "30 New Avenue, NewCity_99",
+    "phone": "555-7159",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_156",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "845 New Avenue, NewCity_99",
+    "phone": "555-1664",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_157",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "227 New Avenue, NewCity_99",
+    "phone": "555-2446",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_158",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "134 New Avenue, NewCity_99",
+    "phone": "555-7561",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_159",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "156 New Avenue, NewCity_99",
+    "phone": "555-2172",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_160",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "460 New Avenue, NewCity_99",
+    "phone": "555-3772",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_161",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "444 New Avenue, NewCity_99",
+    "phone": "555-2049",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_162",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "477 New Avenue, NewCity_99",
+    "phone": "555-7413",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_163",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "302 New Avenue, NewCity_99",
+    "phone": "555-8089",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_164",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "621 New Avenue, NewCity_99",
+    "phone": "555-4801",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_165",
+    "full_name": "DAVID MILLER",
+    "email": "",
+    "address": "69 New Avenue, NewCity_99",
+    "phone": "555-3612",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_166",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "488 New Avenue, NewCity_99",
+    "phone": "555-5022",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_167",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "810 New Avenue, NewCity_99",
+    "phone": "555-1050",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_168",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "707 New Avenue, NewCity_99",
+    "phone": "555-2554",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_169",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "801 New Avenue, NewCity_99",
+    "phone": "555-4967",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_170",
+    "full_name": "DAVID MILLER",
+    "email": " david.miller@example.com  ",
+    "address": "926 New Avenue, NewCity_99",
+    "phone": "555-7002",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_171",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "115 New Avenue, NewCity_99",
+    "phone": "555-3948",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_172",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "268 New Avenue, NewCity_99",
+    "phone": "555-8170",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_173",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "997 New Avenue, NewCity_99",
+    "phone": "555-5334",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_174",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "200 New Avenue, NewCity_99",
+    "phone": "555-8205",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_175",
+    "full_name": "JANE SMITH",
+    "email": "jane.smith@example.com",
+    "address": "521 New Avenue, NewCity_99",
+    "phone": "555-2156",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_176",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "183 New Avenue, NewCity_99",
+    "phone": "555-6005",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_177",
+    "full_name": "john doe",
+    "email": "john.doe@example.com",
+    "address": "962 New Avenue, NewCity_99",
+    "phone": "555-9076",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_178",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "571 New Avenue, NewCity_99",
+    "phone": "555-8452",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_179",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "293 New Avenue, NewCity_99",
+    "phone": "555-9268",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_180",
+    "full_name": "JOHN DOE",
+    "email": " john.doe@example.com  ",
+    "address": "914 New Avenue, NewCity_99",
+    "phone": "555-4703",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_181",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "375 New Avenue, NewCity_99",
+    "phone": "555-1186",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_182",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "746 New Avenue, NewCity_99",
+    "phone": "555-5245",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_183",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "938 New Avenue, NewCity_99",
+    "phone": "555-8270",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_184",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "858 New Avenue, NewCity_99",
+    "phone": "555-5940",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_185",
+    "full_name": "BOB STRUCTURE",
+    "email": "bob.structure@example.com",
+    "address": "21 New Avenue, NewCity_99",
+    "phone": "555-5956",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_186",
+    "full_name": "alice wonderland",
+    "email": "alice.wonderland@example.com",
+    "address": "453 New Avenue, NewCity_99",
+    "phone": "555-1604",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_187",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "889 New Avenue, NewCity_99",
+    "phone": "555-2627",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_188",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "324 New Avenue, NewCity_99",
+    "phone": "555-3553",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_189",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "404 New Avenue, NewCity_99",
+    "phone": "555-5661",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_190",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "254 New Avenue, NewCity_99",
+    "phone": "555-3868",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_191",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "265 New Avenue, NewCity_99",
+    "phone": "555-9851",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_192",
+    "full_name": "john doe",
+    "email": "john.doe@example.com",
+    "address": "417 New Avenue, NewCity_99",
+    "phone": "555-6104",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_193",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "728 New Avenue, NewCity_99",
+    "phone": "555-8125",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_194",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "456 New Avenue, NewCity_99",
+    "phone": "555-8935",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_195",
+    "full_name": "BOB STRUCTURE",
+    "email": "",
+    "address": "97 New Avenue, NewCity_99",
+    "phone": "555-5249",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_196",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "790 New Avenue, NewCity_99",
+    "phone": "555-2190",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_197",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "819 New Avenue, NewCity_99",
+    "phone": "555-1020",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_198",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "749 New Avenue, NewCity_99",
+    "phone": "555-8723",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_199",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "474 New Avenue, NewCity_99",
+    "phone": "555-4364",
+    "updated_at": "2026-01-15T10:00:00Z"
+  },
+  {
+    "cust_id": "cust_600",
+    "full_name": "BOB STRUCTURE",
+    "email": " bob.structure@example.com  ",
+    "address": "285 Growth St, StartupCity",
+    "phone": "555-4503",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_601",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "369 Growth St, StartupCity",
+    "phone": "555-5894",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_602",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "776 Growth St, StartupCity",
+    "phone": "555-1042",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_603",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "127 Growth St, StartupCity",
+    "phone": "555-3207",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_604",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "393 Growth St, StartupCity",
+    "phone": "555-3309",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_605",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "234 Growth St, StartupCity",
+    "phone": "555-3440",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_606",
+    "full_name": "alice wonderland",
+    "email": "alice.wonderland@example.com",
+    "address": "443 Growth St, StartupCity",
+    "phone": "555-7424",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_607",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "285 Growth St, StartupCity",
+    "phone": "555-6719",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_608",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "940 Growth St, StartupCity",
+    "phone": "555-9125",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_609",
+    "full_name": "john doe",
+    "email": "john.doe@example.com",
+    "address": "205 Growth St, StartupCity",
+    "phone": "555-6338",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_610",
+    "full_name": "JANE SMITH",
+    "email": " jane.smith@example.com  ",
+    "address": "774 Growth St, StartupCity",
+    "phone": "555-2188",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_611",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "635 Growth St, StartupCity",
+    "phone": "555-3795",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_612",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "54 Growth St, StartupCity",
+    "phone": "555-1753",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_613",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "363 Growth St, StartupCity",
+    "phone": "555-9576",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_614",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "12 Growth St, StartupCity",
+    "phone": "555-1676",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_615",
+    "full_name": "JANE SMITH",
+    "email": "",
+    "address": "981 Growth St, StartupCity",
+    "phone": "555-2439",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_616",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "147 Growth St, StartupCity",
+    "phone": "555-3931",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_617",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "613 Growth St, StartupCity",
+    "phone": "555-1014",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_618",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "525 Growth St, StartupCity",
+    "phone": "555-1192",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_619",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "591 Growth St, StartupCity",
+    "phone": "555-6222",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_620",
+    "full_name": "BOB STRUCTURE",
+    "email": " bob.structure@example.com  ",
+    "address": "19 Growth St, StartupCity",
+    "phone": "555-6708",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_621",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "565 Growth St, StartupCity",
+    "phone": "555-1564",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_622",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "46 Growth St, StartupCity",
+    "phone": "555-7347",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_623",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "568 Growth St, StartupCity",
+    "phone": "555-2883",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_624",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "913 Growth St, StartupCity",
+    "phone": "555-5988",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_625",
+    "full_name": "JANE SMITH",
+    "email": "jane.smith@example.com",
+    "address": "289 Growth St, StartupCity",
+    "phone": "555-6854",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_626",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "479 Growth St, StartupCity",
+    "phone": "555-2988",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_627",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "954 Growth St, StartupCity",
+    "phone": "555-8127",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_628",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "617 Growth St, StartupCity",
+    "phone": "555-8741",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_629",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "938 Growth St, StartupCity",
+    "phone": "555-4768",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_630",
+    "full_name": "CHARLIE BROWN",
+    "email": " charlie.brown@example.com  ",
+    "address": "191 Growth St, StartupCity",
+    "phone": "555-1600",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_631",
+    "full_name": "charlie brown",
+    "email": "charlie.brown@example.com",
+    "address": "491 Growth St, StartupCity",
+    "phone": "555-5237",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_632",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "122 Growth St, StartupCity",
+    "phone": "555-2473",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_633",
+    "full_name": "alice wonderland",
+    "email": "alice.wonderland@example.com",
+    "address": "925 Growth St, StartupCity",
+    "phone": "555-6784",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_634",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "710 Growth St, StartupCity",
+    "phone": "555-8740",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_635",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "478 Growth St, StartupCity",
+    "phone": "555-5199",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_636",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "98 Growth St, StartupCity",
+    "phone": "555-7178",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_637",
+    "full_name": "jane smith",
+    "email": "jane.smith@example.com",
+    "address": "921 Growth St, StartupCity",
+    "phone": "555-8533",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_638",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "964 Growth St, StartupCity",
+    "phone": "555-4931",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_639",
+    "full_name": "john doe",
+    "email": "john.doe@example.com",
+    "address": "213 Growth St, StartupCity",
+    "phone": "555-1697",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_640",
+    "full_name": "JOHN DOE",
+    "email": " john.doe@example.com  ",
+    "address": "298 Growth St, StartupCity",
+    "phone": "555-9244",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_641",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "965 Growth St, StartupCity",
+    "phone": "555-3565",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_642",
+    "full_name": "david miller",
+    "email": "david.miller@example.com",
+    "address": "396 Growth St, StartupCity",
+    "phone": "555-1163",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_643",
+    "full_name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": "597 Growth St, StartupCity",
+    "phone": "555-2903",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_644",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "169 Growth St, StartupCity",
+    "phone": "555-4837",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_645",
+    "full_name": "BOB STRUCTURE",
+    "email": "",
+    "address": "422 Growth St, StartupCity",
+    "phone": "555-5553",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_646",
+    "full_name": "Bob Structure",
+    "email": "bob.structure@example.com",
+    "address": "304 Growth St, StartupCity",
+    "phone": "555-3111",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_647",
+    "full_name": "ALICE WONDERLAND",
+    "email": "alice.wonderland@example.com",
+    "address": "21 Growth St, StartupCity",
+    "phone": "555-1755",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_648",
+    "full_name": "bob structure",
+    "email": "bob.structure@example.com",
+    "address": "832 Growth St, StartupCity",
+    "phone": "555-2418",
+    "updated_at": "2026-01-16T09:00:00Z"
+  },
+  {
+    "cust_id": "cust_649",
+    "full_name": "DAVID MILLER",
+    "email": "david.miller@example.com",
+    "address": "891 Growth St, StartupCity",
+    "phone": "555-2920",
+    "updated_at": "2026-01-16T09:00:00Z"
+  }
+]
