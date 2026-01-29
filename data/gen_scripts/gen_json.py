@@ -1,6 +1,5 @@
 import json
 import random
-from datetime import datetime, timedelta
 
 
 def generate_customer_name(i):

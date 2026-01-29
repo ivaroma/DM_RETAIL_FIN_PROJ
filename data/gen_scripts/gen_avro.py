@@ -1,7 +1,6 @@
 import fastavro
 import json
 import random
-from datetime import datetime
 
 # 1. Load Customer IDs to keep data consistent
 with open("customers_v1.json", "r") as f:

@@ -1,10 +1,9 @@
 import pandas as pd
 import json
 import random
-import csv
 from datetime import datetime, timedelta
 
-# 1. Load your existing Customer IDs to use as Foreign Keys
+# 1. Load existing Customer IDs to use as Foreign Keys
 with open("customers_v1.json", "r") as f:
     cust_v1 = json.load(f)
     cust_ids = [c["cust_id"] for c in cust_v1]
